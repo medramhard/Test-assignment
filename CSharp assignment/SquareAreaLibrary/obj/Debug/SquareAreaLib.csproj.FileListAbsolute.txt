@@ -1,0 +1,6 @@
+C:\Users\madness\source\repos\SquareAreaLibrary\SquareAreaLibrary\bin\Debug\SquareAreaLibrary.dll
+C:\Users\madness\source\repos\SquareAreaLibrary\SquareAreaLibrary\bin\Debug\SquareAreaLibrary.pdb
+C:\Users\madness\source\repos\SquareAreaLibrary\SquareAreaLibrary\obj\Debug\SquareAreaLib.csproj.AssemblyReference.cache
+C:\Users\madness\source\repos\SquareAreaLibrary\SquareAreaLibrary\obj\Debug\SquareAreaLib.csproj.CoreCompileInputs.cache
+C:\Users\madness\source\repos\SquareAreaLibrary\SquareAreaLibrary\obj\Debug\SquareAreaLibrary.dll
+C:\Users\madness\source\repos\SquareAreaLibrary\SquareAreaLibrary\obj\Debug\SquareAreaLibrary.pdb
